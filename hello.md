@@ -4,3 +4,6 @@ There are four area in git system:
 - staging area
 - local repo(HEAD)
 - remote repo(MASTER)
+
+Lists version history for a file, beyond renames 
+`$ git log --follow [file]`
