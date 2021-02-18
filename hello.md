@@ -4,3 +4,4 @@ There are four area in git system:
 - staging area
 - local repo(HEAD)
 - remote repo(MASTER)
+Modified on branch master.
